@@ -1,0 +1,22 @@
+name: Deploy vidoteach.de site (main branch checkout)
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Routed through staging.vidoteach.de for the same reason as the staging workflow - no
+      # live vhost serves this checkout under vidoteach.de itself yet.
+      - name: Trigger deploy via webhook
+        env:
+          WEBHOOK_SECRET: ${{ secrets.VIDOTEACH_DE_WEBHOOK_SECRET }}
+        run: |
+          PAYLOAD="{\"ref\":\"${{ github.sha }}\"}"
+          SIG="sha256=$(printf '%s' "$PAYLOAD" | openssl dgst -sha256 -hmac "$WEBHOOK_SECRET" | sed 's/^.* //')"
+          curl -sf -X POST https://staging.vidoteach.de/hooks/deploy-vidoteach-de \
+            -H "Content-Type: application/json" \
+            -H "X-Hub-Signature-256: $SIG" \
+            --data "$PAYLOAD"

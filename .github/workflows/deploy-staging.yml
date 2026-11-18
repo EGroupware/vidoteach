@@ -1,0 +1,23 @@
+name: Deploy staging site
+
+on:
+  push:
+    branches: [staging]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      # Routed through staging.vidoteach.de itself (the only one of this site's domains that's
+      # password-protected and stable), the same way egroupware.org's deploy hooks are routed
+      # through staging.egroupware.org - see that repo's workflows for the full rationale.
+      - name: Trigger deploy via webhook
+        env:
+          WEBHOOK_SECRET: ${{ secrets.STAGING_WEBHOOK_SECRET }}
+        run: |
+          PAYLOAD="{\"ref\":\"${{ github.sha }}\"}"
+          SIG="sha256=$(printf '%s' "$PAYLOAD" | openssl dgst -sha256 -hmac "$WEBHOOK_SECRET" | sed 's/^.* //')"
+          curl -sf -X POST https://staging.vidoteach.de/hooks/deploy-staging-vidoteach \
+            -H "Content-Type: application/json" \
+            -H "X-Hub-Signature-256: $SIG" \
+            --data "$PAYLOAD"
