@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://www.vidoteach.de/de/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/" />
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/" />
+		<lastmod>2025-02-27T10:17:33+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/WE_DO_VIDEO_TEACH_7-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Surfen.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Feedback.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Markierung.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Schuelerinnen_2-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Quellen_w_2-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Anbindung_2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_DSGVO-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Quellen_b-02.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/</loc>
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/" />
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/" />
+		<lastmod>2024-10-09T12:51:04+02:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/WE_DO_VIDEO_TEACH_7-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Surfen.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Feedback.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Markierung.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Schuelerinnen_2-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDEOTEACH_Quellen_EN_white.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDEOTEACH_Anbindung_EN_b-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDEOTEACH_GDPR-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDEOTEACH_Quellen_EN_b.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/datenschutz/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/datenschutz/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/privacy/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/datenschutz/" />
+		<lastmod>2023-11-30T09:27:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/privacy/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/datenschutz/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/privacy/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/datenschutz/" />
+		<lastmod>2023-11-30T19:19:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/kontakt/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/kontakt/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/contact-us/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/kontakt/" />
+		<lastmod>2023-11-30T19:31:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/VIDOTEACH_Logo_alle.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/funktionen/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/funktionen/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/functions/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/funktionen/" />
+		<lastmod>2023-11-30T19:32:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Surfen.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Markierung.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Feedback.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Welt.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/vielen-dank-fuer-ihre-nachricht/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/vielen-dank-fuer-ihre-nachricht/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/thank-you-for-your-message/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/vielen-dank-fuer-ihre-nachricht/" />
+		<lastmod>2023-11-30T19:32:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/thank-you-for-your-message/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/vielen-dank-fuer-ihre-nachricht/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/thank-you-for-your-message/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/vielen-dank-fuer-ihre-nachricht/" />
+		<lastmod>2023-11-30T19:32:25+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/home/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/home/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/home/" />
+		<lastmod>2023-11-30T20:29:02+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/contact-us/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/kontakt/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/contact-us/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/kontakt/" />
+		<lastmod>2023-11-30T20:40:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/VIDOTEACH_Logo_alle.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/integrations/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/preise/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/integrations/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/preise/" />
+		<lastmod>2023-11-30T22:08:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/WE_DO_VIDEO_TEACH_7-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/Markerfarben_L_ohne_Rand-01.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/functions/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/funktionen/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/functions/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/funktionen/" />
+		<lastmod>2024-04-05T11:10:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDEOTEACH_Funktionen_EN_b-03-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Surfen.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Markierung.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Feedback.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Erklarvideo_Welt.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDOTEACH_Funktionen_EN-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDOTEACH_Funktionen_EN-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDOTEACH_Funktionen_EN-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDOTEACH_Funktionen_EN-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDOTEACH_Funktionen_EN-03.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2024/04/VIDOTEACH_Funktionen_EN-03.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/development/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/entwicklung/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/development/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/entwicklung/" />
+		<lastmod>2025-02-24T13:22:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Schuelerinnen_2-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/RPTU_Logo_1c-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/Logo_EGroupware_CMYK-1-pdf.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/WE_DO_VIDEO_TEACH_7-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/bb_egroupware.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2025/02/Nathan_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/arash_tolou_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/thyssen_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/vanwaveren_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/VIDOTEACH_Logo.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/RPTU_Logo_1c-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/Logo_EGroupware_2000px_fargig.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/entwicklung/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/entwicklung/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/development/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/entwicklung/" />
+		<lastmod>2025-02-24T13:31:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Schuelerinnen_2-10.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/RPTU_Logo_1c-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/Logo_EGroupware_CMYK-1-pdf.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/WE_DO_VIDEO_TEACH_7-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/bb_egroupware.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2025/02/Nathan_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/arash_tolou_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/thyssen_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/vanwaveren_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/VIDOTEACH_Logo.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/RPTU_Logo_1c-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/Logo_EGroupware_2000px_fargig.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/neuer-name/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/neuer-name/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/neuer-name/" />
+		<lastmod>2025-03-19T10:32:28+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Funktionen-08.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/VIDOTEACH_Logo.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/RPTU_Logo_1c-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/Logo_EGroupware_2000px_fargig.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/preise/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/preise/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/integrations/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/preise/" />
+		<lastmod>2025-06-02T11:02:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/WE_DO_VIDEO_TEACH_7-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/Markerfarben_L_ohne_Rand-01.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/impressum/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/impressum/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/imprint/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/impressum/" />
+		<lastmod>2025-08-08T06:11:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/en/imprint/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/impressum/" />
+		<xhtml:link rel="alternate" hreflang="en" href="https://www.vidoteach.de/en/imprint/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/impressum/" />
+		<lastmod>2025-08-08T06:12:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://www.vidoteach.de/de/forschung/</loc>
+		<xhtml:link rel="alternate" hreflang="de" href="https://www.vidoteach.de/de/forschung/" />
+		<xhtml:link rel="alternate" hreflang="x-default" href="https://www.vidoteach.de/de/forschung/" />
+		<lastmod>2025-10-10T09:39:21+00:00</lastmod>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Feedback.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/RPTU_Logo_1c-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/Logo_EGroupware_CMYK-1-pdf.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2025/04/Partnerlogo_Studienseminar_RLP.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/08/VIDEOTEACH_Quellen_b-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/10/WE_DO_VIDEO_TEACH_7-02.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/thyssen_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/vanwaveren_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/arash_tolou_round.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/VIDOTEACH_Logo.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/RPTU_Logo_1c-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2023/11/Logo_EGroupware_2000px_fargig.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://www.vidoteach.de/assets/uploads/2025/04/Partnerlogo_Studienseminar_RLP.png</image:loc>
+		</image:image>
+	</url>
+</urlset>
