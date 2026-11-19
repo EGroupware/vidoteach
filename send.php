@@ -1,11 +1,10 @@
 <?php
 /**
- * Contact form handler for /de/kontakt/ and /en/contact-us/ (replaces the WordPress plugin Fluent Forms).
+ * Contact form handler for /de/kontakt/ and /en/contact-us/.
  *
- * Two ways in:
- *  - Fluent Forms' own script (kept for identical validation and look) posts via AJAX:
- *    action=fluentform_submit, form_id=3|4, data=<url-encoded form fields>; it expects JSON.
- *  - Without JavaScript the form posts its fields directly; we answer with a redirect.
+ * The form posts its fields directly (form_id=3 German, 4 English); we answer with a
+ * redirect to the thank-you page. The older AJAX format of the former WordPress form
+ * plugin (action=fluentform_submit, data=<url-encoded fields>) is still accepted.
  *
  * Recipient: environment variable VIDOTEACH_MAIL_TO (set in the web server/PHP-FPM config),
  * otherwise the address named in the form's consent text.
