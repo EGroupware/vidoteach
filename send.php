@@ -7,10 +7,10 @@
  * plugin (action=fluentform_submit, data=<url-encoded fields>) is still accepted.
  *
  * Recipient: environment variable VIDOTEACH_MAIL_TO (set in the web server/PHP-FPM config),
- * otherwise the address named in the form's consent text.
+ * otherwise hallo@vidoteach.de (the address shown on the contact page).
  */
 
-const MAIL_TO_DEFAULT = 'info@egroupware.org';
+const MAIL_TO_DEFAULT = 'hallo@vidoteach.de';
 const MAIL_FROM = 'VIDOTEACH Website <noreply@vidoteach.de>';
 const THANKS = [
 	'de' => '/de/vielen-dank-fuer-ihre-nachricht/',
