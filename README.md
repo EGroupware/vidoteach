@@ -7,9 +7,12 @@ vidoteach.de website – static HTML/CSS, exported 1:1 from the former WordPress
 
 - `de/…/index.html`, `en/…/index.html` – one folder per page, so the old addresses
   (`/de/kontakt/`, `/en/contact-us/`, …) stay exactly the same
-- `index.html` – forwards to `/de/` (the old site answered `/` with a 301 to `/de/`)
+- `index.html` – language switch as on www.egroupware.org: a choice made with the flags
+  (`localStorage` key `vidoteach-lang`) wins, otherwise German browsers go to `/de/`, all others to `/en/`
 - `404.html` – the former WordPress 404 page
-- `assets/uploads/` – images and fonts (formerly `/wp-content/uploads/`)
+- `assets/uploads/` – images and fonts (formerly `/wp-content/uploads/`). Pages use the `.webp`
+  versions; the original `.png`/`.jpg` stay for `og:image`, structured data and the sitemap
+- `robots.txt` – same rules as www.egroupware.org (search engines and AI assistants allowed)
 - `assets/themes/`, `assets/plugins/`, `assets/et-cache/`, `assets/includes/` – the theme and
   plugin CSS/JS the pages need (Divi, Supreme Modules, accessibility sidebar, jQuery), stored locally
 - `sitemap_index.xml`, `page-sitemap.xml` – same addresses as before
